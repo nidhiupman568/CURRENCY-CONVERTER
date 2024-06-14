@@ -41,6 +41,7 @@ Welcome to the **Currency Converter** project! This web application, crafted wit
 
 Here’s a preview of the Stopwatch in action:
 
+![currency converter](https://github.com/nidhiupman568/CURRENCY-CONVERTER/assets/130860182/9b719bdf-8b7e-4db6-a97d-513672420985)
 
 
 Enjoy seamless currency conversions with the Currency Converter! Whether you're planning travel expenses, managing international transactions, or simply curious about exchange rates, this tool is designed to simplify your experience. Feel free to contribute to the project or provide feedback through pull requests. Happy converting! 🌟
