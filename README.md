@@ -2,6 +2,8 @@
 
 Welcome to the **Currency Converter** project! 🎉 This web application, crafted with **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻, empowers users to effortlessly convert between different currencies using real-time exchange rates. Flag images are dynamically updated using the [Flags API](https://flagsapi.com/), enhancing the visual experience. 🌍🔄
 
+Project Demo: https://nidhiupman568.github.io/CURRENCY-CONVERTER/
+
 ## Features ✨
 
 - 🔄 Converts between various currencies with real-time exchange rates.
